@@ -1,0 +1,174 @@
+The following lines contain stats for the first 10 columns of the dataset.
+Elevation, the Minimun value is 1859.0, the Maximun is 3858.0 and the Mean is 2959.37
+Aspect, the Minimun value is 0.0, the Maximun is 360.0 and the Mean is 155.66
+Slope, the Minimun value is 0.0, the Maximun is 66.0 and the Mean is 14.1
+Horizontal_Distance_To_Hydrology, the Minimun value is 0.0, the Maximun is 1397.0 and the Mean is 269.43
+Vertical_Distance_To_Hydrology, the Minimun value is -173.0, the Maximun is 601.0 and the Mean is 46.42
+Horizontal_Distance_To_Roadways, the Minimun value is 0.0, the Maximun is 7117.0 and the Mean is 2350.15
+Hillshade_9am, the Minimun value is 0.0, the Maximun is 254.0 and the Mean is 212.15
+Hillshade_Noon, the Minimun value is 0.0, the Maximun is 254.0 and the Mean is 223.32
+Hillshade_3pm, the Minimun value is 0.0, the Maximun is 254.0 and the Mean is 142.53
+Horizontal_Distance_To_Fire_Points, the Minimun value is 0.0, the Maximun is 7173.0 and the Mean is 1980.29
+
+The following lines contain stats for each of the seven wilderness areas and each column.
+
+Rawah Wilderness Area, Column Elevation.
+The Minimun value is 2473.0
+The Maximun is 3686.0
+The Mean is 3000.27
+Rawah Wilderness Area, Column Aspect.
+The Minimun value is 0.0
+The Maximun is 360.0
+The Mean is 138.28
+Rawah Wilderness Area, Column Slope.
+The Minimun value is 0.0
+The Maximun is 61.0
+The Mean is 12.16
+Rawah Wilderness Area, Column Horizontal_Distance_To_Hydrology.
+The Minimun value is 0.0
+The Maximun is 1124.0
+The Mean is 246.55
+Rawah Wilderness Area, Column Vertical_Distance_To_Hydrology.
+The Minimun value is -159.0
+The Maximun is 431.0
+The Mean is 34.75
+Rawah Wilderness Area, Column Horizontal_Distance_To_Roadways.
+The Minimun value is 0.0
+The Maximun is 7117.0
+The Mean is 3134.41
+Rawah Wilderness Area, Column Hillshade_9am.
+The Minimun value is 56.0
+The Maximun is 254.0
+The Mean is 218.12
+Rawah Wilderness Area, Column Hillshade_Noon.
+The Minimun value is 74.0
+The Maximun is 254.0
+The Mean is 223.95
+Rawah Wilderness Area, Column Hillshade_3pm.
+The Minimun value is 0.0
+The Maximun is 251.0
+The Mean is 137.64
+Rawah Wilderness Area, Column Horizontal_Distance_To_Fire_Points.
+The Minimun value is 0.0
+The Maximun is 7173.0
+The Mean is 2538.7
+Neota Wilderness Area, Column Elevation.
+The Minimun value is 2945.0
+The Maximun is 3647.0
+The Mean is 3245.73
+Neota Wilderness Area, Column Aspect.
+The Minimun value is 0.0
+The Maximun is 359.0
+The Mean is 182.57
+Neota Wilderness Area, Column Slope.
+The Minimun value is 0.0
+The Maximun is 43.0
+The Mean is 12.94
+Neota Wilderness Area, Column Horizontal_Distance_To_Hydrology.
+The Minimun value is 0.0
+The Maximun is 1129.0
+The Mean is 320.29
+Neota Wilderness Area, Column Vertical_Distance_To_Hydrology.
+The Minimun value is -166.0
+The Maximun is 278.0
+The Mean is 44.24
+Neota Wilderness Area, Column Horizontal_Distance_To_Roadways.
+The Minimun value is 30.0
+The Maximun is 2632.0
+The Mean is 1008.17
+Neota Wilderness Area, Column Hillshade_9am.
+The Minimun value is 71.0
+The Maximun is 254.0
+The Mean is 211.44
+Neota Wilderness Area, Column Hillshade_Noon.
+The Minimun value is 133.0
+The Maximun is 254.0
+The Mean is 226.92
+Neota Wilderness Area, Column Hillshade_3pm.
+The Minimun value is 0.0
+The Maximun is 249.0
+The Mean is 148.23
+Neota Wilderness Area, Column Horizontal_Distance_To_Fire_Points.
+The Minimun value is 0.0
+The Maximun is 5867.0
+The Mean is 2136.52
+Comanche Peak Wilderness Area, Column Elevation.
+The Minimun value is 2270.0
+The Maximun is 3858.0
+The Mean is 2980.55
+Comanche Peak Wilderness Area, Column Aspect.
+The Minimun value is 0.0
+The Maximun is 360.0
+The Mean is 165.19
+Comanche Peak Wilderness Area, Column Slope.
+The Minimun value is 0.0
+The Maximun is 66.0
+The Mean is 15.17
+Comanche Peak Wilderness Area, Column Horizontal_Distance_To_Hydrology.
+The Minimun value is 0.0
+The Maximun is 1397.0
+The Mean is 298.92
+Comanche Peak Wilderness Area, Column Vertical_Distance_To_Hydrology.
+The Minimun value is -173.0
+The Maximun is 601.0
+The Mean is 56.15
+Comanche Peak Wilderness Area, Column Horizontal_Distance_To_Roadways.
+The Minimun value is 0.0
+The Maximun is 5463.0
+The Mean is 1937.12
+Comanche Peak Wilderness Area, Column Hillshade_9am.
+The Minimun value is 0.0
+The Maximun is 254.0
+The Mean is 209.08
+Comanche Peak Wilderness Area, Column Hillshade_Noon.
+The Minimun value is 0.0
+The Maximun is 254.0
+The Mean is 224.41
+Comanche Peak Wilderness Area, Column Hillshade_3pm.
+The Minimun value is 0.0
+The Maximun is 254.0
+The Mean is 146.48
+Comanche Peak Wilderness Area, Column Horizontal_Distance_To_Fire_Points.
+The Minimun value is 0.0
+The Maximun is 4589.0
+The Mean is 1562.4
+Cache la Poudre Wilderness Area, Column Elevation.
+The Minimun value is 1859.0
+The Maximun is 2654.0
+The Mean is 2294.11
+Cache la Poudre Wilderness Area, Column Aspect.
+The Minimun value is 0.0
+The Maximun is 360.0
+The Mean is 191.16
+Cache la Poudre Wilderness Area, Column Slope.
+The Minimun value is 0.0
+The Maximun is 50.0
+The Mean is 21.44
+Cache la Poudre Wilderness Area, Column Horizontal_Distance_To_Hydrology.
+The Minimun value is 0.0
+The Maximun is 664.0
+The Mean is 187.54
+Cache la Poudre Wilderness Area, Column Vertical_Distance_To_Hydrology.
+The Minimun value is -134.0
+The Maximun is 312.0
+The Mean is 63.82
+Cache la Poudre Wilderness Area, Column Horizontal_Distance_To_Roadways.
+The Minimun value is 0.0
+The Maximun is 1776.0
+The Mean is 733.02
+Cache la Poudre Wilderness Area, Column Hillshade_9am.
+The Minimun value is 46.0
+The Maximun is 254.0
+The Mean is 191.58
+Cache la Poudre Wilderness Area, Column Hillshade_Noon.
+The Minimun value is 93.0
+The Maximun is 254.0
+The Mean is 208.47
+Cache la Poudre Wilderness Area, Column Hillshade_3pm.
+The Minimun value is 0.0
+The Maximun is 250.0
+The Mean is 145.3
+Cache la Poudre Wilderness Area, Column Horizontal_Distance_To_Fire_Points.
+The Minimun value is 0.0
+The Maximun is 2016.0
+The Mean is 778.65
